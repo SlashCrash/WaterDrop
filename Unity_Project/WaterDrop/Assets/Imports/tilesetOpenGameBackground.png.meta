@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: ad42f1ec37dfa6645977332f2e11aba9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 901323444171749085
+    second: tilesetOpenGameBackground_0
+  - first:
+      213: -5017492123183891102
+    second: tilesetOpenGameBackground_1
+  - first:
+      213: 7862674909087924055
+    second: tilesetOpenGameBackground_2
+  - first:
+      213: 3463862957261428159
+    second: tilesetOpenGameBackground_3
+  - first:
+      213: 272260104209534947
+    second: tilesetOpenGameBackground_4
+  - first:
+      213: 5080311230338038680
+    second: tilesetOpenGameBackground_5
+  - first:
+      213: 6584284932978663512
+    second: tilesetOpenGameBackground_6
+  - first:
+      213: -8111275776219388969
+    second: tilesetOpenGameBackground_7
+  - first:
+      213: 175767117965222093
+    second: tilesetOpenGameBackground_8
+  - first:
+      213: 5425827427958024991
+    second: tilesetOpenGameBackground_9
+  - first:
+      213: 5678193082799432653
+    second: tilesetOpenGameBackground_10
+  - first:
+      213: -4940446014726515465
+    second: tilesetOpenGameBackground_11
+  - first:
+      213: 4345925768672617934
+    second: tilesetOpenGameBackground_12
+  - first:
+      213: 4321072144426082131
+    second: tilesetOpenGameBackground_13
+  - first:
+      213: 4584082359820031170
+    second: tilesetOpenGameBackground_14
+  - first:
+      213: -668982902277703377
+    second: tilesetOpenGameBackground_15
+  - first:
+      213: 7908333171230316260
+    second: tilesetOpenGameBackground_16
+  - first:
+      213: 7175604998417163789
+    second: tilesetOpenGameBackground_17
+  - first:
+      213: -8208168601658684836
+    second: tilesetOpenGameBackground_18
+  - first:
+      213: 8611729818444064475
+    second: tilesetOpenGameBackground_19
+  - first:
+      213: 3432870376464094480
+    second: tilesetOpenGameBackground_20
+  - first:
+      213: -120267068420516951
+    second: tilesetOpenGameBackground_21
+  - first:
+      213: -3218623092876610754
+    second: tilesetOpenGameBackground_22
+  - first:
+      213: 3486043541716629529
+    second: tilesetOpenGameBackground_23
+  - first:
+      213: -3335422275267872378
+    second: tilesetOpenGameBackground_24
+  - first:
+      213: 4978090794002648774
+    second: tilesetOpenGameBackground_25
+  - first:
+      213: -343762096699525233
+    second: tilesetOpenGameBackground_26
+  - first:
+      213: 2103160464346976275
+    second: tilesetOpenGameBackground_27
+  - first:
+      213: -695932715063884769
+    second: tilesetOpenGameBackground_28
+  - first:
+      213: -6189202908703029995
+    second: tilesetOpenGameBackground_29
+  - first:
+      213: 520267943983032356
+    second: tilesetOpenGameBackground_30
+  - first:
+      213: 5159890947910213964
+    second: tilesetOpenGameBackground_31
+  - first:
+      213: -5169890872514826379
+    second: tilesetOpenGameBackground_32
+  - first:
+      213: 2204757103894585595
+    second: tilesetOpenGameBackground_33
+  - first:
+      213: 6940086628490208297
+    second: tilesetOpenGameBackground_34
+  - first:
+      213: -8967796020706963136
+    second: tilesetOpenGameBackground_35
+  - first:
+      213: -3043250904582041092
+    second: tilesetOpenGameBackground_36
+  - first:
+      213: -3293862199494887164
+    second: tilesetOpenGameBackground_37
+  - first:
+      213: 6214918805268304313
+    second: tilesetOpenGameBackground_38
+  - first:
+      213: -1022279841083741041
+    second: tilesetOpenGameBackground_39
+  - first:
+      213: -6240240579706731443
+    second: tilesetOpenGameBackground_40
+  - first:
+      213: -8575682204420370669
+    second: tilesetOpenGameBackground_41
+  - first:
+      213: -8750198795677747044
+    second: tilesetOpenGameBackground_42
+  - first:
+      213: 3492383867110669348
+    second: tilesetOpenGameBackground_43
+  - first:
+      213: 9209425408247016158
+    second: tilesetOpenGameBackground_44
+  - first:
+      213: 4517420543162941112
+    second: tilesetOpenGameBackground_45
+  - first:
+      213: 3879346222359378777
+    second: tilesetOpenGameBackground_46
+  - first:
+      213: 8440036979589503227
+    second: tilesetOpenGameBackground_47
+  - first:
+      213: 1315319552422773780
+    second: tilesetOpenGameBackground_48
+  - first:
+      213: -2858269980563456403
+    second: tilesetOpenGameBackground_49
+  - first:
+      213: 2447670740838862902
+    second: tilesetOpenGameBackground_50
+  - first:
+      213: -439901704429759091
+    second: tilesetOpenGameBackground_51
+  - first:
+      213: 2971595740154708952
+    second: tilesetOpenGameBackground_52
+  - first:
+      213: 8821243817244108253
+    second: tilesetOpenGameBackground_53
+  - first:
+      213: 6012748961157761526
+    second: tilesetOpenGameBackground_54
+  - first:
+      213: 2214684056374698462
+    second: tilesetOpenGameBackground_55
+  - first:
+      213: 6486079155922532236
+    second: tilesetOpenGameBackground_56
+  - first:
+      213: -7035701130141928039
+    second: tilesetOpenGameBackground_57
+  - first:
+      213: 3035312976631610508
+    second: tilesetOpenGameBackground_58
+  - first:
+      213: -6462481425604767308
+    second: tilesetOpenGameBackground_59
+  - first:
+      213: 5357539140699464902
+    second: tilesetOpenGameBackground_60
+  - first:
+      213: 7610764631161422816
+    second: tilesetOpenGameBackground_61
+  - first:
+      213: -729871032706033481
+    second: tilesetOpenGameBackground_62
+  - first:
+      213: 1620337222983179829
+    second: tilesetOpenGameBackground_63
+  - first:
+      213: -3141560438609596087
+    second: tilesetOpenGameBackground_64
+  - first:
+      213: -1827184333382770902
+    second: tilesetOpenGameBackground_65
+  - first:
+      213: -4595081786028804097
+    second: tilesetOpenGameBackground_66
+  - first:
+      213: -622392815911783136
+    second: tilesetOpenGameBackground_67
+  - first:
+      213: -1493414592597928154
+    second: tilesetOpenGameBackground_68
+  - first:
+      213: -2071372015999184466
+    second: tilesetOpenGameBackground_69
+  - first:
+      213: 4210634918486570486
+    second: tilesetOpenGameBackground_70
+  - first:
+      213: -6700186205253272928
+    second: tilesetOpenGameBackground_71
+  - first:
+      213: 6154424894912988935
+    second: tilesetOpenGameBackground_72
+  - first:
+      213: 8909401134062494838
+    second: tilesetOpenGameBackground_73
+  - first:
+      213: 9195411332401092520
+    second: tilesetOpenGameBackground_74
+  - first:
+      213: 7057786131320196068
+    second: tilesetOpenGameBackground_75
+  - first:
+      213: 846489249734685865
+    second: tilesetOpenGameBackground_76
+  - first:
+      213: 4811466241042864701
+    second: tilesetOpenGameBackground_77
+  - first:
+      213: -1561033845344815700
+    second: tilesetOpenGameBackground_78
+  - first:
+      213: -3219754918419926758
+    second: tilesetOpenGameBackground_79
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b695a5e4228c00800000000000000
+      internalID: 901323444171749085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dbd4e6f794e5ab0800000000000000
+      internalID: -5017492123183891102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fff8ceb25dd1d60800000000000000
+      internalID: 7862674909087924055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5933ed10d121030800000000000000
+      internalID: 3463862957261428159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8bed4f1347c300800000000000000
+      internalID: 272260104209534947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf9b8b524e08640800000000000000
+      internalID: 5080311230338038680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506622f244106b50800000000000000
+      internalID: 6584284932978663512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3663b28a5fe6f80800000000000000
+      internalID: -8111275776219388969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e2853343707200800000000000000
+      internalID: 175767117965222093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b62086c496c4b40800000000000000
+      internalID: 5425827427958024991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32752468efcce40800000000000000
+      internalID: 5678193082799432653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45b347682007bb0800000000000000
+      internalID: -4940446014726515465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a2fdf574df4c30800000000000000
+      internalID: 4345925768672617934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1a59a83887fb30800000000000000
+      internalID: 4321072144426082131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c415366e9eed9f30800000000000000
+      internalID: 4584082359820031170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297de4489b47b6f0800000000000000
+      internalID: -668982902277703377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61f9c7e1b00cd60800000000000000
+      internalID: 7908333171230316260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d062c236abed49360800000000000000
+      internalID: 7175604998417163789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8e91452ab61e80800000000000000
+      internalID: -8208168601658684836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGameBackground_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66ff994a2038770800000000000000
+      internalID: 8611729818444064475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
